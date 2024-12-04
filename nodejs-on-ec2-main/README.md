@@ -4,7 +4,7 @@ Simple node.js app that servers "Saif on fire 🔥"
 
 Great for testing simple deployments on Cloud
 
-## Step 1: Install NodeJS and NPM using nvm
+## Step 1: Install NodeJS and NPM
 Install node version manager (nvm) by typing the following at the command line.
 
 ```bash
